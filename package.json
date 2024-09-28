@@ -1,0 +1,17 @@
+{
+  "name": "second_ts_class",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "second_ts_class": "file:"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4"
+  }
+}
